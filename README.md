@@ -1,6 +1,7 @@
 # Yubin Ye
 
-I am a  2022 fall Phd student in UC Riverside, interested in researching time series forecasting in methods of both econometrics and machine learning.
+I am a  2022 fall Phd student in UC Riverside
+- research: time series forecasting in methods of both econometrics and machine learning
 
 ### Education 
 - Master’s degree in Economics, Boston University, 2021
